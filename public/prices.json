@@ -1,0 +1,20 @@
+[
+{
+"id":1,
+"name": "Premium MemberShip",
+"price": 80,
+"feature":["Gym access","locaker room"]
+},
+{
+    "id":2,
+    "name": "local MemberShip",
+    "price": 50,
+    "feature":["Gym access"]
+},
+{
+    "id":3,
+    "name": "local MemberShip+premium member",
+    "price": 100,
+    "feature":["Gym access","shawer gell free"]
+}
+]
